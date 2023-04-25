@@ -1,4 +1,4 @@
-### Hi there, I'm Valery 👋
+### Hi there, I'm Valeriy 👋
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ValerianRelex3&show_icons=true&count_private=true">
