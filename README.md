@@ -16,7 +16,7 @@
 ## 🛠 Technical Stack
 *   Java language
 *   MySQL, PostgreSQL, MongoDB, Reddis, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
+*   Spring Framework, Spring Boot, Spring WebFlux, Spring Test, Spring Data Jpa, Spring Jdbc template
 *   Postman, Apache Tomcat, JSP, JUnit, Maven
 *   GitHub/GitLab/Bitbucket
 *   Confluence, JIRA, Redmine
