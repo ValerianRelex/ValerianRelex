@@ -17,7 +17,7 @@
 *   Java language
 *   MySQL, PostgreSQL, MongoDB, Reddis, Flyway, Liquibase
 *   Spring Framework, Spring Boot, Spring WebFlux, Spring Test, Spring Data Jpa, Spring Jdbc template
-*   Postman, Apache Tomcat, JSP, JUnit, Maven
+*   Postman, Apache Tomcat, JSP, JUnit, Maven, Gradle
 *   GitHub/GitLab/Bitbucket
 *   Confluence, JIRA, Redmine
 
